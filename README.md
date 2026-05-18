@@ -22,26 +22,18 @@ SmartClaim is a Machine Learning based project developed to demonstrate practica
 This repository contains 10 laboratory experiments covering important Machine Learning concepts and algorithms.
 
 #### Included Experiments
-- Experiment 1 – Introduction to ML
-- Experiment 2 – Data Preprocessing
-- Experiment 3 – Regression Techniques
-- Experiment 4 – Classification Algorithms
-- Experiment 5 – Clustering
-- Experiment 6 – Decision Trees
-- Experiment 7 – Naive Bayes
-- Experiment 8 – Support Vector Machine
-- Experiment 9 – Neural Networks
-- Experiment 10 – Model Evaluation
-
----
-
-### 3. Observation Note
-Contains the observation record PDF including:
-- Aim
-- Procedure
-- Code
-- Output
-- Result
+- Experiment 1(a): A Python Program to Implement Univariate, Bivariate and Multivariate Regression
+- Experiment 1(b): A Python Program to Implement Data Cleaning
+- Experiment 2: A Python Program to Implement Least Square Method
+- Experiment 3: A Python Program to Implement Logistic Regression
+- Experiment 4: A Python Program to Implement Single Layer Perceptron
+- Experiment 5: A Python Program to Implement Multi Layer Perceptron
+- Experiment 6: A Python Program to Implement Support Vector Machine
+- Experiment 7: A Python Program to Implement Decision Tree
+- Experiment 8: A Python Program to Implement Boosting
+- Experiment 9(a): A Python Program to Implement K-Nearest Neighbor
+- Experiment 9(b): A Python Program to Implement K-Means Clustering
+- Experiment 10: A Python Program to Implement Principal Component Analysis (PCA)
 
 ---
 
@@ -51,10 +43,10 @@ Contains the observation record PDF including:
 Fundamentals_Of_Machine_Learning/
 │
 ├── Project/
-│   ├── SmartClaim Source Code
-│   ├── Datasets
-│   ├── Model Files
-│   └── Project Documentation
+│   ├── backend
+│   └── frontend
+│   
+│   
 │
 ├── Experiments/
 │   ├── Experiment_1/
@@ -68,8 +60,6 @@ Fundamentals_Of_Machine_Learning/
 │   ├── Experiment_9/
 │   └── Experiment_10/
 │
-├── Observation_Note/
-│   └── Observation_Note.pdf
 │
 ├── README.md
 └── requirements.txt
